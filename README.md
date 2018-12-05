@@ -1,2 +1,2 @@
 # Advent of Code
-A storage repository for all solutions I do towards https://adventofcode.com throughout the years.
+A storage repository for all solutions I do towards https://adventofcode.com throughout the years. Solutions will be in a variety of languages depending on what I feel can quickly get the job done.
